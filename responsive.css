@@ -6,9 +6,11 @@
   .content {  
     top: 5%;
     margin-top: 5px;
-    margin-left: -120px;
+    /* margin-left: -120px; */
   }
-  
+  .content .title {
+    font-size: 2.5rem;
+  }
   .content .logo {
     height: 140px;
     width: 140px;
@@ -38,5 +40,6 @@
 
   .content {
     top: 5%;
+    left: 50%;
   }
 }
